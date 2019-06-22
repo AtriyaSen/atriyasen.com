@@ -36,9 +36,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: envelope
+  icon_pack: fas
+  #link: '#contact'
+  link: "mailto:atriya@atriyasen.com"
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -64,4 +65,4 @@ email: "atriya@atriyasen.com"
 #- Visitors
 ---
 
-I will soon be working in the [School of Life Sciences](https://sols.asu.edu) at [Arizona State University](https://www.asu.edu), under [Prof. Nico Franz](https://sols.asu.edu/nico-franz). Previously, I was assistant director of the [Rensselaer Artificial Intelligence & Reasoning Laboratory](https://rair.cogsci.rpi.edu) at [Rensselaer Polytechnic Institute](http://www.rpi.edu), where I received my Ph.D. in computer science in 2017, advised by [Prof. Selmer Bringsjord](http://www.rpi.edu/~brings).
+I will soon be joining the [School of Life Sciences](https://sols.asu.edu) at [Arizona State University](https://www.asu.edu). Previously, I was assistant director of the [Rensselaer Artificial Intelligence & Reasoning Laboratory](https://rair.cogsci.rpi.edu) at [Rensselaer Polytechnic Institute](http://www.rpi.edu), where I received my Ph.D. in computer science in 2017, advised by [Prof. Selmer Bringsjord](http://www.rpi.edu/~brings).
