@@ -68,4 +68,4 @@ email: "atriya@atriyasen.com"
 #- Visitors
 ---
 
-I am an artificial intelligence researcher at [Arizona State University](https://www.asu.edu). Previously, I was assistant director of the [Rensselaer Artificial Intelligence & Reasoning Laboratory](https://rair.cogsci.rpi.edu) at [Rensselaer Polytechnic Institute](http://www.rpi.edu), where I received my Ph.D. in computer science in 2017, advised by [Prof. Selmer Bringsjord](http://www.rpi.edu/~brings).
+I am an artificial intelligence researcher at [University of New Orleans](https://www.asu.edu). Previously, I was assistant director of the [Rensselaer Artificial Intelligence & Reasoning Laboratory](https://rair.cogsci.rpi.edu) at [Rensselaer Polytechnic Institute](http://www.rpi.edu), where I received my Ph.D. in computer science in 2017, advised by [Prof. Selmer Bringsjord](http://www.rpi.edu/~brings).
