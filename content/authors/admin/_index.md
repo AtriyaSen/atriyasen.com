@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Research Associate
+role: Assistant Professor of Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Arizona State University
+- name: University of New Orleans
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
